@@ -1,0 +1,10 @@
+{
+  "note": "Example of one reading sent by the ESP32 (shortened). Real readings have 8000 audio samples and 1000 vibration samples.",
+  "timestamp_ms": 1730000000000,
+  "audio_fs": 8000,
+  "vib_fs": 1000,
+  "audio": [0.01, -0.02, 0.03, 0.00],
+  "vibration": [0.31, 0.29, 0.35, 0.28],
+  "temperature_c": 55.2,
+  "current_a": 3.4
+}
